@@ -1,0 +1,14 @@
+5 Whys Analysis: Giant Supermarkets closed by August
+5 Whys Analysis is technique used to find root cause of a problem. From excerpt, I’ve identified the problem is Hero Supermarket plans to close all Giant Supermarkets by the end of July. Analysis I’ve done using 5 Whys Analysis:
+
+1. Why did Hero Group plan to close all of its Giant Supermarket? Because Hero Group had to improve its finances as pandemic whammed Indonesia’s retail industry and affected Hero Group’s revenue drop 34 percent year-on-year in first quarter this year. 
+
+2. Why did pandemic affect Hero Group’s drop in revenue? Because mobility restrictions limit shop operating hours and shifted more consumption online, affected Hero Group especially in retail industry, Giant Supermarket.
+
+3. Why did mobility restrictions affect Giant Supermarket in retail industry more than others? Might because Giant Supermarket was not provided with strategies for shift in costumer shopping behavior that prefers online shopping.
+
+4. Why did Giant Supermarket isn’t provided with strategies for shift in customer shopping behavior? Because Hero Group aimed to focus on expanding IKEA furniture retail, Guardian pharmacy and Hero supermarket outlets. 
+
+5.Why did Hero Group aim to focus on other retail and outlet? Because Hero president director acknowledged that supermarkets were declining in global, and confident that demand for household appliances, beauty products and daily needs for upper-class Indonesians had strong growth potential.
+
+In conclusion, using 5 Whys Analysis, I’ve identified the root cause of the problem: Hero president director recognized decline in supermarkets’ global popularity and decided to focus in sectors with strong potential growth in Indonesians including household appliances, beauty products and daily needs.
